@@ -22,9 +22,9 @@ Add the following to your scripts in `package.json`:
 
 ```json
 {
-    "scripts": {
-        "turbo-waffle": node turbo-waffle/index.js
-    }
+  "scripts": {
+    "turbo-waffle": "node node_modules/turbo-waffle"
+  }
 }
 ```
 
@@ -34,6 +34,6 @@ The output should be in your root directory as `waffle.build.json`.
 
 ## Why?
 
-Because Github dared me to. See the tweet below:
+Because Github dared me to.
 
-![turbo waffle inception](initial-tweet.png)
+![turbo waffle inception](./assets/initial-tweet.png)
