@@ -1,6 +1,6 @@
 {
   "name": "turbo-waffle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "turbo-powered waffle bundler",
   "main": "index.js",
   "scripts": {
