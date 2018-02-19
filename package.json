@@ -1,0 +1,21 @@
+{
+  "name": "turbo-waffle",
+  "version": "1.0.0",
+  "description": "turbo-powered waffle bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trainorpj/turbo-waffle.git"
+  },
+  "keywords": ["waffle"],
+  "waffles": 2000,
+  "author": "PJ Trainor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trainorpj/turbo-waffle/issues"
+  },
+  "homepage": "https://github.com/trainorpj/turbo-waffle#readme"
+}
